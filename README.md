@@ -1,5 +1,3 @@
-# Small-React-Projects
-# *
 # React.js Learning Repository
 
 Welcome to my React.js learning repository! This repository documents my journey as I explore the world of React.js and build various projects to enhance my skills.
